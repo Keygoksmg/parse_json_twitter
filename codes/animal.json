@@ -1,0 +1,12 @@
+{
+    "pets": {
+        "type": "dog",
+        "age": 5,
+        "like": [
+            "walking",
+            "eating",
+            "hamster"
+        ]
+    },
+    "dog": "bow"
+}
